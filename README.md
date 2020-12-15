@@ -9,3 +9,5 @@
 <img src="https://github.com/BeautifulDirt/bot_new_year/blob/main/img_result.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_new_year/blob/main/img_result.jpg" width="640" height="490" />
 
  <img src="https://github.com/BeautifulDirt/bot_new_year/blob/main/footer.jpg" data-canonical-src="https://github.com/BeautifulDirt/bot_new_year/blob/main/footer.jpg" width="640" height="320" />
+
+:calendar: *Ноябрь, 2019*
